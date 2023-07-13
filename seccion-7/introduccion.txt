@@ -1,0 +1,7 @@
+Que son los datos Genericos.
+
+Typescript esta diseñado para ser un lenguaje de tipado
+En el echo de poder tener un tipo de dato any es basicamente
+contraproducente en el lenguaje y genera errores
+
+para ello nacen los datos o tipado Genericos
